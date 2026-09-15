@@ -1,114 +1,435 @@
-# ¡Hola a todos! 👋 Soy Roger Mauricio Durán Guacaneme
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D26A&center=true&vCenter=true&width=650&lines=Ingeniero+de+Sistemas+en+formaci%C3%B3n;Backend+Developer+%7C+Arquitectura+Hexagonal;Ciberseguridad+%26+An%C3%A1lisis+de+Tr%C3%A1fico;DevOps+%26+Automatizaci%C3%B3n+de+Procesos" alt="Typing SVG" />
+<!-- Hero Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Roger%20Mauricio%20Dur%C3%A1n%20Guacaneme&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&random=false&width=850&height=90&lines=Systems+Engineering+Student+%F0%9F%8E%93;Backend+Developer+%7C+Hexagonal+Architecture+%F0%9F%8F%97%EF%B8%8F;Cybersecurity+%26+Network+Traffic+Analyst+%F0%9F%9B%A1%EF%B8%8F;DevOps+%26+Process+Automation+%F0%9F%90%B3" alt="Typing SVG" /></a>
+
+<!-- Social & Metric Badges -->
+<p>
+  <a href="https://www.linkedin.com/in/roger-mauricio-duran-guacaneme" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F222E" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rogermao5.1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F222E" alt="Email"/>
+  </a>
+  <a href="https://github.com/SrDark04?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/SrDark04?style=for-the-badge&logo=github&logoColor=white&color=yellow&labelColor=1F222E" alt="Stars"/>
+  </a>
+  <a href="https://github.com/SrDark04?tab=followers">
+    <img src="https://img.shields.io/github/followers/SrDark04?style=for-the-badge&logo=github&logoColor=white&color=blue&labelColor=1F222E" alt="Followers"/>
+  </a>
+  <a href="https://github.com/SrDark04">
+    <img src="https://komarev.com/ghpvc/?username=SrDark04&style=for-the-badge&color=orange&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/roger-mauricio-duran-guacaneme"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rogermao5.1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/SrDark04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 About Me
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Professional Profile
+
+🎓 **Systems Engineering Student (9th Semester)**  
+📍 *Escuela Colombiana de Ingeniería Julio Garavito* (Habilitado para prácticas profesionales)
+
+🛡️ **Graduate-Level Research**  
+*Artificial Intelligence applied to Cybersecurity & Networks*
+
+🏗️ **Software Architect & Backend Developer**  
+Especialista en **Java 21**, **Spring Boot** y **Arquitectura Hexagonal (Ports & Adapters)**
+
+⚙️ **DevOps, Automation & Linux Systems**  
+Usuario avanzado de **Arch Linux**, containerización con **Docker** y pipelines de CI/CD (**GitHub Actions**, **Azure DevOps**)
+
+🏆 **Premios y Reconocimientos**  
+🥈 2º Lugar en Feria de Ideas Inspiradoras (Proyecto ZEAL)  
+🥈 2º Lugar 4ª Edición DOSW (Sistema de Torneos ECI)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Core Mindset & Philosophy
+
+```typescript
+const roger = {
+  name: "Roger Mauricio Durán Guacaneme",
+  role: "Backend Developer & Software Architect",
+  mindset: ["Clean Code", "Hexagonal Architecture", "TDD", "Automation"],
+  securityFocus: ["Traffic Analysis", "Incident Mitigation", "Zero Trust"],
+  environment: "Arch Linux Daily Driver 🐧",
+  traits: ["Problem Solving", "Discipline", "Continuous Learning"],
+  passions: {
+    backend: "Java 21 / Spring Boot & Resilient Microservices 🚀",
+    research: "AI for Network Security & Alert Mitigation 🛡️",
+    devops: "Docker, CI/CD Automation & Linux Kernel Tuning 🐳"
+  }
+};
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎨 Tech Stack Universe
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+</div>
+
+<details open>
+<summary><b>🎯 Languages & Core Scripting</b></summary>
+<br>
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>⚡ Backend, Architecture & Frameworks</b></summary>
+<br>
+
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal_Architecture-6BA539?style=for-the-badge&logo=diagram-next&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=apache&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD_Methodology-0A66C2?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Cloud Infrastructure</b></summary>
+<br>
+
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2_Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>🛡️ Cybersecurity, Networking & AI</b></summary>
+<br>
+
+<div align="center">
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP_Protocols-00599C?style=for-the-badge&logo=network&logoColor=white)
+![VLANs](https://img.shields.io/badge/VLANs_&_Subnetting-2496ED?style=for-the-badge&logo=lan&logoColor=white)
+![AI & ML](https://img.shields.io/badge/AI_Alert_Mitigation-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Data Protection](https://img.shields.io/badge/Data_Protection_SIC-338833?style=for-the-badge&logo=lock&logoColor=white)
+
+</div>
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools, OS & Linux Internals</b></summary>
+<br>
+
+<div align="center">
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_CLI_&_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Systemd](https://img.shields.io/badge/Systemd_Services-CC292B?style=for-the-badge&logo=debian&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+</div>
+
+<div align="center">
+
+### 💎 Architecture, Security & DevOps Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🥈 ZEAL — Plataforma de Retención y Propósito</h3>
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hexagonal-4B8BBE?style=for-the-badge"/>
 </p>
-
----
-
-## 👨‍💻 Acerca de Mí
-
-Soy estudiante de **9º semestre de Ingeniería de Sistemas** en la **Escuela Colombiana de Ingeniería Julio Garavito** (Bogotá, Colombia), actualmente habilitado para el inicio de prácticas profesionales. Cuento con formación complementaria en materias de nivel maestría enfocadas en **Inteligencia Artificial aplicada a Ciberseguridad y Redes**.
-
-Me destaco por abordar los retos tecnológicos de forma integral: desde el diseño y desacoplamiento de **arquitecturas de software limpias y escalables**, pasando por la **seguridad defensiva y análisis forense de redes**, hasta la **automatización operativa y despliegue continuo (DevOps)** sobre entornos Linux.
-
-- 🎓 **Educación:** Ingeniería de Sistemas (Escuela Colombiana de Ingeniería Julio Garavito) — Grado esperado: 2027.
-- 💡 **Filosofía de desarrollo:** Código limpio, arquitecturas desacopladas (Ports & Adapters), enfoque guiado por pruebas (TDD) y optimización de flujos operativos mediante automatización.
-- 🐧 **Entorno Diario:** Usuario avanzado y apasionado de **Arch Linux** (personalización de kernel, scripts de automatización con Bash/Python y gestión de servicios systemd).
-- 🏆 **Reconocimientos:** Galardonado con el **2º puesto** en ferias de ingeniería y desarrollo de software por el diseño de arquitecturas resilientes y automatizadas.
-
----
-
-## 🎯 Pilares Profesionales y Especialización
-
-### 🏗️ 1. Arquitectura de Software & Desarrollo Backend
-- **Diseño Modular:** Implementación rigurosa de **Arquitectura Hexagonal (Ports & Adapters)** y patrones de microservicios, asegurando total independencia entre el dominio de negocio, los adaptadores web y la infraestructura.
-- **Stack Backend Moderno:** Dominio avanzado de **Java 21** y ecosistema **Spring Boot** (Spring Security, Spring Data JPA, Spring Web), además de desarrollo de APIs rápidas con **Python (FastAPI)**.
-- **Seguridad & Persistencia:** Implementación de esquemas de autenticación stateless con **JWT** y control de acceso basado en roles (**RBAC**). Persistencia políglota eficiente con **PostgreSQL**, **MongoDB**, **MySQL** y bases de datos en memoria (**H2**).
-- **Calidad de Software:** Enfoque **TDD (Test-Driven Development)** y pruebas unitarias con JUnit 5 previas a integración.
-
-### 🛡️ 2. Ciberseguridad & Redes
-- **Análisis Forense & Tráfico:** Diagnóstico e inspección profunda de paquetes con **Wireshark** (análisis de tramas Ethernet, handshakes TCP/TLS y decodificación de anomalías).
-- **Diseño de Topologías:** Modelado y simulación de redes en **Cisco Packet Tracer** (enrutamiento estático/dinámico, tablas ARP, VLANs y direccionamiento IPv4/IPv6).
-- **Inteligencia Artificial Aplicada:** Investigación y desarrollo en modelos de Machine Learning (Python) orientados a la clasificación heurística, priorización en tiempo real y mitigación de fatiga de alertas de red.
-- **Cumplimiento y Gobernanza:** Formación en normatividad de Protección de Datos Personales (SIC) y gestión de propiedad intelectual.
-
-### ⚙️ 3. DevOps & Automatización de Procesos
-- **Containerización:** Empaquetado estandarizado mediante **Docker** y orquestación local con **Docker Compose**, incluyendo redes virtuales bridge seguras.
-- **Pipelines CI/CD:** Automatización de flujos de compilación, testing y validación estática con **GitHub Actions** y **Azure DevOps**.
-- **Scripting & Linux Internals:** Creación de herramientas de automatización en **Bash** y **Python** para tareas programadas, respaldos, monitorización de recursos y administración avanzada en **Arch Linux**.
-
----
-
-## 🛠️ Stack Tecnológico
-
-| Dominio | Herramientas & Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | `Java (17/21)` `Python` `Bash` `SQL` `JavaScript` `C / C++` |
-| **Backend & Frameworks** | `Spring Boot` `Spring Security` `Data JPA` `FastAPI` `RESTful APIs` |
-| **Arquitectura & Metodologías** | `Arquitectura Hexagonal` `Microservicios` `TDD` `Clean Code` `RBAC` `MVC` |
-| **Bases de Datos** | `PostgreSQL` `MongoDB` `MySQL` `Oracle SQL` `H2 Database` |
-| **DevOps & Cloud** | `Docker` `Docker Compose` `GitHub Actions` `Azure DevOps` `AWS` `Git` `Maven` |
-| **Redes & Seguridad** | `Wireshark` `Cisco Packet Tracer` `TCP/IP` `VLANs` `Análisis PCAP` `JWT` |
-| **Sistemas Operativos** | `Arch Linux` `Linux CLI & Systemd` `Kernel Tuning` `Windows` |
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-</p>
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🥈 ZEAL — Plataforma Web de Retención y Propósito Laboral
-*Segundo Lugar en la Feria de Ideas Inspiradoras*
-- **Arquitectura Hexagonal (Ports & Adapters):** Backend modular implementado en **Java 21** y **Spring Boot**, desacoplando totalmente las reglas de negocio de la capa web y persistencia.
-- **Persistencia Dual:** Estrategia con **PostgreSQL** para entornos productivos y **H2** en memoria para pruebas automáticas continuas.
-- **CI/CD & DevOps:** Pipeline en **GitHub Actions** con ejecución automatizada de pruebas unitarias bajo enfoque **TDD** y aprovisionamiento con **Docker Compose**.
-
-### 🥈 Sistema Distribuido de Gestión de Torneos Deportivos (DOSW)
-*Segundo Lugar 4ª Edición DOSW — Escuela Colombiana de Ingeniería*
-- **Microservicios & Seguridad:** Microservicio centralizado de Usuarios y Autenticación con **Spring Boot**, protegiendo endpoints mediante **Spring Security + JWT (RBAC)**.
-- **Persistencia Políglota:** Gestión transaccional de usuarios en **PostgreSQL** y trazabilidad/auditoría de eventos en **MongoDB**.
-- **Infraestructura:** Empaquetado por microservicio en **Docker** y pipelines continuos en **Azure DevOps**.
-
-### 🛡️ Priorización y Mitigación de Incidentes de Red con IA
-*Proyecto de Investigación (Nivel Maestría)*
-- **Clasificación Heurística Inteligente:** Modelo de Machine Learning en **Python** para clasificar y filtrar paquetes y tokens de tráfico en tiempo real.
-- **Optimización Operativa:** Reducción de fatiga de alertas para equipos defensivos (Blue Team/SOC), discriminando falsos positivos y acelerando la respuesta ante incidentes críticos (IR).
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrDark04&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrDark04&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
----
-
-## 📫 Conectemos
 
 <p align="left">
-  📍 <b>Ubicación:</b> Bogotá, Colombia<br/>
-  💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/roger-mauricio-duran-guacaneme">linkedin.com/in/roger-mauricio-duran-guacaneme</a><br/>
-  📧 <b>Correo:</b> <a href="mailto:rogermao5.1@gmail.com">rogermao5.1@gmail.com</a><br/>
-  🐙 <b>GitHub:</b> <a href="https://github.com/SrDark04">@SrDark04</a>
+Diseño e implementación de arquitectura de backend bajo <b>Arquitectura Hexagonal (Ports & Adapters)</b>, desacoplando la lógica de negocio de los controladores y repositorios. Persistencia dual (<b>PostgreSQL</b> en producción y <b>H2</b> para testing), CI/CD en <b>GitHub Actions</b> bajo enfoque <b>TDD</b> y containerización con <b>Docker Compose</b>.
 </p>
+
+<p><em>🏆 Segundo Lugar en Feria de Ideas Inspiradoras</em></p>
+
+</div>
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🥈 Sistema Distribuido de Torneos (DOSW)</h3>
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT_&_RBAC-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+</p>
+
+<p align="left">
+Transformación de flujos operativos manuales a una arquitectura distribuida de microservicios. Microservicio de Autenticación stateless con <b>Spring Security + JWT</b> y autorización RBAC. Persistencia políglota con <b>PostgreSQL</b> transaccional y <b>MongoDB</b> para auditoría de eventos. Despliegues automatizados en <b>Azure DevOps</b>.
+</p>
+
+<p><em>🏆 Segundo Lugar 4ª Edición DOSW ECI</em></p>
+
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🛡️ Mitigación de Incidentes de Red con IA</h3>
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_/_ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
+
+<p align="left">
+Proyecto de investigación de nivel Maestría. Modelo inteligente en <b>Python</b> para la priorización y clasificación heurística de tokens de tráfico y eventos de red en tiempo real, mitigando la <b>fatiga de alertas</b> operativa y discriminando falsos positivos en flujos de Incident Response (IR).
+</p>
+
+<p><em>🔬 Investigación Nivel Posgrado</em></p>
+
+</div>
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🐧 Linux Infrastructure & Kernel Automation</h3>
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Systemd-CC292B?style=for-the-badge"/>
+</p>
+
+<p align="left">
+Orquestación y automatización de sistemas en <b>Arch Linux</b> mediante scripts en <b>Bash</b> y <b>Python</b> para monitoreo de recursos, rotación y respaldos automáticos gestionados por servicios y temporizadores <b>systemd</b>. Ajuste de parámetros de kernel para alta concurrencia y contenedores.
+</p>
+
+<p><em>⚡ Automatización de Infraestructura Local</em></p>
+
+</div>
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/SrDark04?tab=repositories&sort=stargazers">
+<img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-FF8C00?style=for-the-badge&logoColor=white&logo=repo"/>
+</a>
+
+---
+
+### 🤝 Academic & Specialized Repositories
+
+<table>
+<tr>
+<td width="33%">
+
+<h4 align="center">BluePrints REST API + JWT</h4>
+<div align="center">
+<a href="https://github.com/SrDark04/RD_Lab_P2_BluePrints_Java21_API_Security_JWT_RC">
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</a>
+<a href="https://github.com/SrDark04/RD_Lab_P2_BluePrints_Java21_API_Security_JWT_RC">
+<img src="https://img.shields.io/badge/Security_JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+</a>
+</div>
+</td>
+
+<td width="33%">
+
+<h4 align="center">Concurrent Programming</h4>
+<div align="center">
+<a href="https://github.com/SrDark04/RD_ConcurrentProgramming_Syncrhronization_DeadLocks_ThsSuspension_RL">
+<img src="https://img.shields.io/badge/Concurrency-FF6C37?style=for-the-badge&logo=apache&logoColor=white"/>
+</a>
+<a href="https://github.com/SrDark04/RL_Lab_SnakeRace-Java21_ARSW">
+<img src="https://img.shields.io/badge/Threads-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+</div>
+</td>
+
+<td width="33%">
+
+<h4 align="center">Interactive Games & Logic</h4>
+<div align="center">
+<a href="https://github.com/SrDark04/SlowTetris">
+<img src="https://img.shields.io/badge/SlowTetris-4B8BBE?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/SrDark04/MarbelGame">
+<img src="https://img.shields.io/badge/MarbelGame-E92063?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=SrDark04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SrDark04&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=SrDark04&theme=tokyonight&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+
+## 🎓 Currently Learning & Exploring
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200">
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+🛡️ **AI aplicada a Ciberseguridad**  
+*Modelos de ML para análisis de tráfico en tiempo real y respuesta a incidentes*
+
+🏗️ **Arquitecturas Cloud Native & Hexagonal**  
+*Diseño de microservicios resilientes y desacoplados con Java 21 y Spring Boot*
+
+🐧 **Linux Kernel Internals & Systemd**  
+*Optimización avanzada de procesos, recursos y automatización en Arch Linux*
+
+</td>
+<td width="50%">
+
+🐳 **DevOps & Orquestación con Contenedores**  
+*Pipelines CI/CD avanzados con GitHub Actions y Azure DevOps*
+
+🔐 **Zero-Trust & Perimetral Security**  
+*Control de acceso granular RBAC, inspección de protocolos y mitigación de riesgos*
+
+⚡ **Automatización de Flujos y Tareas**  
+*Desarrollo de scripts en Bash y Python para optimización de tiempos operativos*
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎯 Let's Connect & Collaborate!
+
+<p>
+  <a href="https://www.linkedin.com/in/roger-mauricio-duran-guacaneme" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rogermao5.1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/SrDark04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+**💡 Building clean, scalable & resilient systems · 🚀 Always learning · 🎯 Problem solver at heart**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
