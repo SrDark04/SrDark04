@@ -14,9 +14,6 @@
   <a href="mailto:rogermao5.1@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F222E" alt="Email"/>
   </a>
-  <a href="https://github.com/SrDark04?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/SrDark04?style=for-the-badge&logo=github&logoColor=white&color=yellow&labelColor=1F222E" alt="Stars"/>
-  </a>
   <a href="https://github.com/SrDark04?tab=followers">
     <img src="https://img.shields.io/github/followers/SrDark04?style=for-the-badge&logo=github&logoColor=white&color=blue&labelColor=1F222E" alt="Followers"/>
   </a>
@@ -88,7 +85,9 @@ const roger = {
 
 ## 🎨 Tech Stack Universe
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<a href="https://archlinux.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="95" height="95" alt="Arch Linux" />
+</a>
 
 </div>
 
@@ -170,7 +169,6 @@ const roger = {
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP_Protocols-00599C?style=for-the-badge&logo=network&logoColor=white)
 ![VLANs](https://img.shields.io/badge/VLANs_&_Subnetting-2496ED?style=for-the-badge&logo=lan&logoColor=white)
-![AI & ML](https://img.shields.io/badge/AI_Alert_Mitigation-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Data Protection](https://img.shields.io/badge/Data_Protection_SIC-338833?style=for-the-badge&logo=lock&logoColor=white)
 
 </div>
