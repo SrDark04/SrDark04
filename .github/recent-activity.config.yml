@@ -1,0 +1,12 @@
+settings:
+  max_lines: 5
+  commit_msg: "⚡ Update README with recent activity"
+  readme_file: "./README.md"
+  url_text: "{REPO}{ID}"
+  date:
+    timezone: "America/Bogota"
+    text: "Last Updated: {DATE}"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+  commit_name: "github-actions[bot]"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+  line_prefix: "{NUM}. "

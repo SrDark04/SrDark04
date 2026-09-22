@@ -369,6 +369,25 @@ Orquestación y automatización de sistemas en <b>Arch Linux</b> mediante script
 
 <div align="center">
 
+## ⚡ Recent GitHub Activity
+
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
+
+</div>
+
+<!--RECENT_ACTIVITY:start-->
+1. 🤝 Became collaborator on [AnotherCreatorAnonymous/semantic-ticket-triage](https://github.com/AnotherCreatorAnonymous/semantic-ticket-triage)<br>
+2. 🔱 Forked [DECSIS-ECI/Lab_P3_BluePrints_React_UI](https://github.com/DECSIS-ECI/Lab_P3_BluePrints_React_UI)<br>
+3. ⬆️ Pushed 1 commit(s) to [SrDark04/SrDark04.github.io](https://github.com/SrDark04/SrDark04.github.io)<br>
+4. 📔 Created new repository [SrDark04/RD_Lab_P2_BluePrints_Java21_API_Security_JWT_RC](https://github.com/SrDark04/RD_Lab_P2_BluePrints_Java21_API_Security_JWT_RC)<br>
+5. ⬆️ Pushed 1 commit(s) to [SrDark04/RD_Lab_P2_BluePrints_Java21_API_Security_JWT_RC](https://github.com/SrDark04/RD_Lab_P2_BluePrints_Java21_API_Security_JWT_RC)<br>
+<!--RECENT_ACTIVITY:end-->
+
+---
+
+<div align="center">
+
 ## 🎓 Currently Learning & Exploring
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200">

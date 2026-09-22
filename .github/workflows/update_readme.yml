@@ -1,19 +1,26 @@
-
 name: Update README
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    # Se ejecuta cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-    
+
+permissions:
+  contents: write
+
 jobs:
   build:
-   runs-on: ubuntu-latest
-   name: Update Profile README
+    name: Update Profile README
+    runs-on: ubuntu-latest
 
-   steps:
-     - uses: actions/checkout@2.3.4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-     - uses: Readme-Workflows/recent-activity@v2.4.1
-       env:
-         GITHUB_TOKEN: ${{secrets.GITHUBTOKEN}}
+      - name: Update Recent Activity
+        uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: SrDark04
