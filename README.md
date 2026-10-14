@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/followers/SrDark04?style=for-the-badge&logo=github&logoColor=white&color=blue&labelColor=1F222E" alt="Followers"/>
   </a>
   <a href="https://github.com/SrDark04">
-    <img src="https://views.igorkowalczyk.dev/api/badge/SrDark04?color=FF8C00&labelColor=1F222E&label=PROFILE%20VIEWS" height="28" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fviews.igorkowalczyk.dev%2Fapi%2Fbadge%2FSrDark04&query=substring-after(%2F%2F*%5Blocal-name()%3D'title'%5D%2C'%3A%20')&label=PROFILE%20VIEWS&style=for-the-badge&logo=github&logoColor=white&color=FF8C00&labelColor=1F222E" alt="Profile Views"/>
   </a>
 </p>
 
