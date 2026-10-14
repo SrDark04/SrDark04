@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/followers/SrDark04?style=for-the-badge&logo=github&logoColor=white&color=blue&labelColor=1F222E" alt="Followers"/>
   </a>
   <a href="https://github.com/SrDark04">
-    <img src="https://komarev.com/ghpvc/?username=SrDark04&color=orange&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=SrDark04&style=for-the-badge&color=orange&label=PROFILE+VIEWS" alt="Profile Views" alt="Profile Views"/>
   </a>
 </p>
 
