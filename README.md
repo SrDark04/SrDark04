@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/followers/SrDark04?style=for-the-badge&logo=github&logoColor=white&color=blue&labelColor=1F222E" alt="Followers"/>
   </a>
   <a href="https://github.com/SrDark04">
-    <img src="https://komarev.com/ghpvc/?username=SrDark04&style=for-the-badge&color=orange&label=PROFILE+VIEWS" alt="Profile Views" alt="Profile Views"/>
+    <img src="https://views.igorkowalczyk.dev/api/badge/SrDark04?color=FF8C00&labelColor=1F222E&label=PROFILE%20VIEWS" height="28" alt="Profile Views"/>
   </a>
 </p>
 
@@ -364,26 +364,6 @@ Orquestación y automatización de sistemas en <b>Arch Linux</b> mediante script
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=SrDark04&theme=tokyonight&hide_border=true&background=0D1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak"/>
 </div>
-
----
-
-<div align="center">
-
-## ⚡ Recent GitHub Activity
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 14th, 2026, 11:36:18 AM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-</div>
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Leon278fki/Lab_P4_RC_BluePrints_RealTime-Sokets](https://github.com/Leon278fki/Lab_P4_RC_BluePrints_RealTime-Sokets)<br>
-2. 💪 Opened PR [#2](undefined) in [AnotherCreatorAnonymous/semantic-ticket-triage](https://github.com/AnotherCreatorAnonymous/semantic-ticket-triage)<br>
-3. ⬆️ Pushed undefined commit(s) to [Leon278fki/Lab_P4_RC_BluePrints_RealTime-Sokets](https://github.com/Leon278fki/Lab_P4_RC_BluePrints_RealTime-Sokets)<br>
-4. ⬆️ Pushed undefined commit(s) to [Leon278fki/Lab_P4_RC_BluePrints_RealTime-Sokets](https://github.com/Leon278fki/Lab_P4_RC_BluePrints_RealTime-Sokets)<br>
-5. ⬆️ Pushed undefined commit(s) to [SrDark04/RD_Lab_P2_BluePrints_Java21_API_Security_JWT_RC](https://github.com/SrDark04/RD_Lab_P2_BluePrints_Java21_API_Security_JWT_RC)<br>
-<!--RECENT_ACTIVITY:end-->
 
 ---
 
